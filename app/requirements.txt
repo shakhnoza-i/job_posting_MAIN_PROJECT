@@ -3,4 +3,7 @@ psycopg2-binary==2.9.1
 uvicorn==0.15.0
 sqlalchemy
 python-dotenv
+pytest
 pydantic[email]
+passlib[bcrypt]
+requests
