@@ -17,7 +17,7 @@ from db.session import get_db
 from apis.base import api_router
 from sqlalchemy.orm import Session
 from core.config import settings        
-#from tests.utils.users import authentication_token_from_email
+from tests.utils.users import authentication_token_from_email
 
 def start_application():
     app = FastAPI()

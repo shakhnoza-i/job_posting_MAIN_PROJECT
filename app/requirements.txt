@@ -3,7 +3,13 @@ psycopg2-binary==2.9.1
 uvicorn==0.15.0
 sqlalchemy
 python-dotenv
+python-jose # for jwt tokens
+python-multipart # for form data
 pytest
+pytest-cov
 pydantic[email]
 passlib[bcrypt]
 requests
+
+jinja2
+aiofiles # for handling local disk files in asyncio applications

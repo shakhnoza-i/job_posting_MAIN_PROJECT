@@ -20,6 +20,7 @@ class JobCreate(JobBase):
 
 
 class ShowJob(JobBase):
+    id: int
     title :str 
     company: str 
     company_url : Optional[str]
