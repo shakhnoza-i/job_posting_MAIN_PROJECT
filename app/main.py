@@ -24,7 +24,3 @@ def start_application():
     return app
 
 app = start_application()
-
-# @app.get("/")
-# def hello_api():
-#     return {"hello": "world"}

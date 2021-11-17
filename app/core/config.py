@@ -8,7 +8,6 @@ load_dotenv(dotenv_path=env_path)
 
 
 class Settings(BaseSettings):
-    #db_url: str = Field(..., env='DATABASE_URL')
     PROJECT_TITLE:str = "Job Board"
     PROJECT_VERSION: str = "1.0.0"
     

@@ -8,7 +8,7 @@ class UserCreate(BaseModel):
     password : str 
 
 
-class ShowUser(BaseModel): # like serializer
+class ShowUser(BaseModel): # serializer
     username : str 
     email : EmailStr
     is_active : bool 
