@@ -23,4 +23,3 @@ Postgres
 - Unit-testing основных модулей с помощью Pytest
 - Загрузка локальных файлов
 - Temlates для фронтенда с помощью html и bootstrap
-- 
