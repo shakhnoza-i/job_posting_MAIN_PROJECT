@@ -1,3 +1,11 @@
+Стек:
+
+
+FastAPI
+Uvicorn (server)
+Pytest
+Sqlalchemy
+Postgres
 
 - Registration, Login, Logout - через JWT
 - Хэширование паролей с помощью алгоритма Decrypt.
