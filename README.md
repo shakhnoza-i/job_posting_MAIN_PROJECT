@@ -1,7 +1,7 @@
     Стек:
 
 
-    FastAP
+    FastAPI
     Sqlalchemy
     Uvicorn (server)
     Pytest
