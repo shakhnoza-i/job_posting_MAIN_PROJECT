@@ -1,6 +1,6 @@
     Стек:
 
-
+    Python
     FastAPI
     Sqlalchemy
     Uvicorn (server)
